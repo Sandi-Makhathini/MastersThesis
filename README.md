@@ -1,8 +1,8 @@
 # MPhil Data Thesis
-## Thesis Topic
+### Thesis Topic
 The rise of quantitative methods in economics. 
 
-There are two folders, namely: 
+There are two branches, namely: 
 1. Citation Analysis, and 
 2. Equation Count. 
 
